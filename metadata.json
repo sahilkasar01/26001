@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA – Land Acquisition Risk Intelligence",
+  "description": "AI-powered predictive analytics decision-support platform for early detection and mitigation of land acquisition delays across major infrastructure corridors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
